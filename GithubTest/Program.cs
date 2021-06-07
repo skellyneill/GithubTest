@@ -6,7 +6,7 @@ namespace GithubTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Branch 1 First Commit");
+            Console.WriteLine("Branch 1 Second Commit");
         }
     }
 }
