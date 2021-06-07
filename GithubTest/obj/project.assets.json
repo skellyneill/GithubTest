@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Programming\\GithubTest\\GithubTest\\GithubTest\\GithubTest.csproj",
+      "projectUniqueName": "C:\\Programming\\GihubTest-Branch-1\\GithubTest\\GithubTest.csproj",
       "projectName": "GithubTest",
-      "projectPath": "C:\\Programming\\GithubTest\\GithubTest\\GithubTest\\GithubTest.csproj",
+      "projectPath": "C:\\Programming\\GihubTest-Branch-1\\GithubTest\\GithubTest.csproj",
       "packagesPath": "C:\\Users\\The COLOSSUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Programming\\GithubTest\\GithubTest\\GithubTest\\obj\\",
+      "outputPath": "C:\\Programming\\GihubTest-Branch-1\\GithubTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\The COLOSSUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
